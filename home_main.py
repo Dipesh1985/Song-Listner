@@ -9,7 +9,7 @@ if a:
     
        st.audio(a)
        st.info("File Opened")
-       st.logo(image="streamlit-logo-secondary-colormark-darktext.svg",size="large")
+       
        
     except Exception as E:
         
